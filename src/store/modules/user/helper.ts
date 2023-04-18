@@ -15,9 +15,9 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://raw.githubusercontent.com/Davi-He/chatgpt-web/main/src/assets/avatar.jpg',
+      avatar: 'https://raw.githubusercontent.com/Davi-He/chatgpt-web/main_davi/src/assets/avatar.jpg',
       name: 'GP4-Private',
-      description: 'For HongHai & ZhiRow"',
+      description: 'For Internal Use',
     },
   }
 }
